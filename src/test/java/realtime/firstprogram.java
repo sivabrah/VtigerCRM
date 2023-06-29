@@ -30,7 +30,7 @@ public class firstprogram {
 		System.out.println(windowhandle);
 		System.out.println("this is the real project");
 		
-		System.out.println("this is the second project");
+		
 	}
 
 }
